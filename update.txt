@@ -1,0 +1,2 @@
+version : 1.0
+download link: https://raw.githubusercontent.com/Reverse-Master/Reverse-Root-Update/refs/heads/main/Reverse%20Root_1.0.apk

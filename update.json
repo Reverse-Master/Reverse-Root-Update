@@ -4,5 +4,5 @@
   "update_title": "Initial Release",
   "update_message": "First stable version",
   "download_url": "",
-  "force_update": false
+  "force_update": true
 }

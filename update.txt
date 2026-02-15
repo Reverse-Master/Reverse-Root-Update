@@ -1,0 +1,2 @@
+version : 2.0
+download link: https://github.com/Reverse-Master/Reverse-Root-Update/raw/refs/heads/main/final_sign.apk
